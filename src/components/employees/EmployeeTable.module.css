@@ -1,0 +1,19 @@
+.iconContainer {
+  display: flex;
+}
+
+.iconContainer button{
+  cursor: pointer;
+}
+
+.iconContainer button:first-child{
+  margin-right: 5px;
+}
+.iconContainer img {
+  height: 15px;
+  width: 15px;
+}
+.message{
+  text-align: center;
+}
+
